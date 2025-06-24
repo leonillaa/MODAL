@@ -1,0 +1,227 @@
+{/*Exercise 1 */}
+
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/HighKnees.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>High Knees</Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
+
+
+
+
+
+          {/*Exercise 2 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/JumpingJacks.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>Jumping Jacks</Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
+
+          {/*Exercise 3 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/Plank.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>Plank</Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
+
+
+
+
+
+          {/*Exercise 4 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/SidePlankLeftArm.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Side plank left arm</Text>
+              <Text style={styles.exerciseDuration}>20 seconds</Text>
+            </View>
+          </View>
+
+
+
+          {/*Exercise 5 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/SidePlankRightArm.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Side plank right arm</Text>
+              <Text style={styles.exerciseDuration}>20 seconds</Text>
+            </View>
+          </View>
+
+
+
+
+          {/*Exercise 6 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/Crunches.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>Crunches  </Text>
+              <Text style={styles.exerciseDuration}> 18 times</Text>
+            </View>
+          </View>
+
+
+          {/*Exercise 7 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/ReverseCrunches.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Reverse Crunches </Text>
+              <Text style={styles.exerciseDuration}>18 times</Text>
+            </View>
+          </View>
+
+
+
+          {/*Exercise 8 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/RussianTwists.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Russian Twists</Text>
+              <Text style={styles.exerciseDuration}>20 times</Text>
+            </View>
+          </View>
+
+
+
+
+
+          {/*Exercise 9 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/Plank.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>Plank</Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
+
+
+
+
+
+          {/*Exercise 10 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/SidePlankLeftArm.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Side plank left arm</Text>
+              <Text style={styles.exerciseDuration}>20 seconds</Text>
+            </View>
+          </View>
+
+
+
+          {/*Exercise 11 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/SidePlankRightArm.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Side plank right arm</Text>
+              <Text style={styles.exerciseDuration}>20 seconds</Text>
+            </View>
+          </View>
+
+
+          {/*Exercise 12 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/Crunches.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>Crunches  </Text>
+              <Text style={styles.exerciseDuration}> 18 times</Text>
+            </View>
+          </View>
+
+
+          {/*Exercise 13 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/ReverseCrunches.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Reverse Crunches </Text>
+              <Text style={styles.exerciseDuration}>18 times</Text>
+            </View>
+          </View>
+
+          {/*Exercise 14 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/RussianTwists.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Russian Twists</Text>
+              <Text style={styles.exerciseDuration}>20 times</Text>
+            </View>
+          </View>
+
+
+
+          {/*Exercise 15 */}
+
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/CobraPose.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}> Cobra Pose </Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
+
+
+
+
+
+          {/*Exercise 16 */}
+          <View style={styles.exerciseBlock}>
+            <Image
+              style={{ width: 120, height: "auto" }}
+              source={require("./assets/CatCow.jpg")}
+            />
+            <View style={{ width: 200, marginTop: 35 }}>
+              <Text style={styles.exerciseTitle}>  Cat-Cow </Text>
+              <Text style={styles.exerciseDuration}>30 seconds</Text>
+            </View>
+          </View>
